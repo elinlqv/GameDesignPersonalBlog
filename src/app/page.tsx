@@ -1,3 +1,5 @@
+import Posts from "./components/Posts";
+
 export default function Home() {
   return (
     <main className=" bg-slate-500 flex min-h-screen flex-col items-center justify-between p-24">
@@ -7,6 +9,7 @@ export default function Home() {
           Welcome to my blog about the computer game design course I'm currently
           taking
         </h3>
+        <Posts></Posts>
       </div>
     </main>
   );
