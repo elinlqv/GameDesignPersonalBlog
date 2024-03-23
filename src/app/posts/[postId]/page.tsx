@@ -8,7 +8,7 @@ export function generateStaticParams() {
   return posts.map((post) => ({ postId: post.id }));
 }
 
-export function GenerateMetaData({ params }: { params: { postId: string } }) {
+export function generateMetaData({ params }: { params: { postId: string } }) {
   const posts = getSortedPostsData();
   const { postId } = params;
   const post = posts.find((post) => post.id === postId);
