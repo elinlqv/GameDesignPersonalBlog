@@ -1,19 +1,12 @@
 ---
-title: "When to Use Static Generation vs. Server-side Rendering"
-date: "2023-03-17"
+title: "The first meeting"
+date: "2023-03-20"
 ---
 
-We recommend using **Static Generation** (with and without data) whenever possible because your page can be built once and served by CDN, which makes it much faster than having a server render the page on every request.
+Today the group met for the first time.
 
-You can use Static Generation for many types of pages, including:
+The session was all about getting to know eachother and starting to spark ideas on what project we want to do.
 
-- Marketing pages
-- Blog posts
-- E-commerce product listings
-- Help and documentation
+After everyone introduced themselves it's clear that we are 4 people with different backgrounds, skill-sets and gaming experience. I think the mix of skills will be crucial for the sucess of this project.
 
-You should ask yourself: "Can I pre-render this page **ahead** of a user's request?" If the answer is yes, then you should choose Static Generation.
-
-On the other hand, Static Generation is **not** a good idea if you cannot pre-render a page ahead of a user's request. Maybe your page shows frequently updated data, and the page content changes on every request.
-
-In that case, you can use **Server-Side Rendering**. It will be slower, but the pre-rendered page will always be up-to-date. Or you can skip pre-rendering and use client-side JavaScript to populate data.
+We decided to schedule a longer brainstorming session later this week. Until then, everyone should start thinking about ideas they want to do for the project.
