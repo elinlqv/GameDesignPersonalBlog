@@ -1,5 +1,11 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+## Project inspiration
+https://github.com/elinlqv/GameDesignPersonalBlog/commit/45bb00318ef5971011c71f40bdaaa47c65ee631c
+
+Youtube tutorial
+https://www.youtube.com/watch?v=puIQhnjOfbc
+
 ## Getting Started
 
 First, run the development server:
