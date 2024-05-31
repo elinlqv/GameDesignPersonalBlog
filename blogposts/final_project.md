@@ -16,7 +16,7 @@ Some of the features in the game include:
 
 Each level represents a place where significant parts of the relationship took place:
 
-![PC exploring the park](/images/explore.gif)
+![PC exploring the park](/images/explore1.gif)
 
 ### Interacting with NPC's.
 
