@@ -1,6 +1,6 @@
 ---
 title: "Endless brainstorming"
-date: "2023-04-05"
+date: "2024-04-5"
 ---
 
 We have met up several times, probably around four, to brainstorm on game mechanics and storytelling. It feels like we are going in circles.

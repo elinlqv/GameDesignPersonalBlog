@@ -1,6 +1,6 @@
 ---
 title: "The first meeting"
-date: "2023-03-12"
+date: "2024-03-12"
 ---
 
 Today the group met for the first time.

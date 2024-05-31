@@ -1,6 +1,6 @@
 ---
 title: "The big brainstorming session"
-date: "2023-03-29"
+date: "2024-03-28"
 ---
 
 Today we met up to brainstorm some ideas for our project.
