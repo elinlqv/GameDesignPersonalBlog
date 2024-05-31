@@ -30,7 +30,11 @@ export default function ListItem({ post }: Props) {
   try {
     formattedDate = getFormattedDate(date);
   } catch (error) {
-    console.error(`Error formatting date: ${error.message}`);
+    if (error instanceof Error) {
+      console.error(`Error formatting date: ${error.message}`);
+    } else {
+      console.error("An unknown error occurred while formatting the date.");
+    }
     formattedDate = "Invalid date";
   }
 
